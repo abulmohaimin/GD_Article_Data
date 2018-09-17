@@ -21,9 +21,9 @@ sys.setdefaultencoding('utf8')
 
 host="mohaimin-mysql-us-east-1c.cvw8wwctyadr.us-east-1.rds.amazonaws.com"
 port=3306
-dbname="article"
-user="mohaimin"
-password="mohaimin"
+dbname="mydb"
+user="mydb1"
+password="mydb12345"
 
 def get_db_contents():
 	article_classfication = dict()
