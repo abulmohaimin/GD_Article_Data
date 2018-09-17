@@ -17,9 +17,9 @@ from datetime import date,datetime,timedelta
 
 host="mohaimin-mysql.cvw8wwctyadr.us-east-1.rds.amazonaws.com"
 port=3306
-dbname="article"
-user="mohaimin"
-password="mohaimin"
+dbname="mydb"
+user="mydb1"
+password="mydb12345"
 
 def get_zip_file(url):
 	web_data = requests.get(url).text
