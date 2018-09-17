@@ -19,7 +19,7 @@ import sys
 reload(sys)  
 sys.setdefaultencoding('utf8')
 
-host="mohaimin-mysql.cvw8wwctyadr.us-east-1.rds.amazonaws.com"
+host="mohaimin-mysql-us-east-1c.cvw8wwctyadr.us-east-1.rds.amazonaws.com"
 port=3306
 dbname="article"
 user="mohaimin"
