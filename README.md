@@ -8,5 +8,7 @@ data, store in db and get some interesting points using named entity recoginzati
 and build an json file for viewing the file name of json will start with
 article_classifications_2018-09-09.json
 
+aurora.tf -> Terraform Infrastructure creation
+variables.tf -> Infrastructure creation Variables
 
 
